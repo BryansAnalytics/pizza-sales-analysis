@@ -50,6 +50,13 @@ FROM pizza_sales;
 
 6. 🔢 Total Number of Records
 SELECT COUNT(*) FROM pizza_sales;
-
+``` 
 📌 Summary
 This project demonstrates how SQL can reveal valuable business insights for restaurant or food-service operators. Tableau visualizations will be added in the future to enhance presentation.
+
+## 📊 Tableau Dashboard
+[🔗 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/brayan.altamirano/viz/PizzaSalesDataset_17502051060260/Dashboard2) 
+(https://public.tableau.com/app/profile/brayan.altamirano/viz/PizzaSalesDataset2/Dashboard3) 
+
+### 📁 Excel Dataset
+[Download the Dataset (Excel)](Pizza Sales.csv) 
