@@ -50,9 +50,16 @@ FROM pizza_sales;
 
 6. 🔢 Total Number of Records
 SELECT COUNT(*) FROM pizza_sales;
-``` 
-📌 Summary
-This project demonstrates how SQL can reveal valuable business insights for restaurant or food-service operators. Tableau visualizations will be added in the future to enhance presentation.
+```
+## Project Summary
+
+This dashboard analyzes pizza sales to uncover product trends, customer preferences, and operational efficiency.
+
+### Key Insights:
+- Total revenue exceeded **$817,000** across **21,000+ orders**.
+- Top-selling pizzas were *Classic Deluxe* and *Barbecue Chicken*, mostly in **Large** size.
+- Sales peak during **lunch (11 AM–1 PM)** and **dinner (6 PM–8 PM)**.
+- Ingredients like **garlic** and **tomato** were most used, useful for supplier planning.
 
 ## 📊 Tableau Dashboard
 [🔗 View the Dashboard on Tableau Public]
@@ -61,3 +68,5 @@ This project demonstrates how SQL can reveal valuable business insights for rest
 
 ### 📁 Excel Dataset
 [Download the Dataset (Excel)](Pizza_Sales.csv) 
+
+
